@@ -7,6 +7,8 @@ int main() {
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
 
+    else ""
+
     // Calculate the addition of a and b
     // using '+' operator
     sum = a + b;
